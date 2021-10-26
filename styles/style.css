@@ -48,7 +48,7 @@ body {
 .photo {
   width: 98vw;
   height: 85vh;
-  background: url("/images/jrgessiel.jpg") center center/cover;
+  background: url("../images/jrgessiel.jpg") center center/cover;
   border-radius: 10px;
   display: flex;
   align-items: flex-end;
